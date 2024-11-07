@@ -1,0 +1,19 @@
+/*!******************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/frontend.scss ***!
+  \******************************************************************************************************************************************************************************************************************************************/
+.ashutosh-task-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.ashutosh-task-table th,
+.ashutosh-task-table td {
+  padding: 8px;
+  text-align: left;
+  border: 1px solid var(--border-color, #000000);
+}
+.ashutosh-task-table th {
+  background-color: #98f66d;
+  color: #000000 !important;
+}
+
+/*# sourceMappingURL=frontend.css.map*/

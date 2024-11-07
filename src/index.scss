@@ -1,0 +1,21 @@
+
+.ashutosh-task-table {
+    width: 100%;
+    border-collapse: collapse;
+
+    th,
+    td {
+        padding: 8px;
+        text-align: left;
+        border: 1px solid var(--border-color, #000);
+
+        // text-align: center;
+    }
+
+    th {
+        background-color: #98f66d;
+        // background-color: #568d91;
+        color: #000000 !important;
+        
+    }
+}
